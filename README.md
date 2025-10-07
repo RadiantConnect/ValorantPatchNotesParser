@@ -1,7 +1,7 @@
 # ValorantPatchNotesParser
 Parses patch notes blog post into a discord webhook
 
-Used in [RadiantConnect](https://github.com/RadiantConnect)
+Used in [RadiantConnect](https://radiantconnect.ca/)
 
 ## Usage
 ```
